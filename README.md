@@ -8,6 +8,7 @@ This repository is dedicated to exploring and understanding the enigmatic Krypto
 
 ## References
 
+- [The Kryptos Sculpture](https://mathweb.ucsd.edu/~crypto/Projects/KarlWang/index.html)
 - [The Kryptos Sculpture Solutions](https://mathweb.ucsd.edu/~crypto/Projects/KarlWang/index2.html)
 - [Kryptos Thesis by Seaman, Kristine](https://ttu-ir.tdl.org/handle/2346/45181)
 
