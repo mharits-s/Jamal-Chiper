@@ -10,5 +10,5 @@ This repository is dedicated to exploring and understanding the enigmatic Krypto
 
 - [The Kryptos Sculpture](https://mathweb.ucsd.edu/~crypto/Projects/KarlWang/index.html)
 - [The Kryptos Sculpture Solutions](https://mathweb.ucsd.edu/~crypto/Projects/KarlWang/index2.html)
-- [Kryptos Thesis by K Seaman](https://ttu-ir.tdl.org/handle/2346/45181)
+- [Kryptos Thesis by K Seaman](https://ttu-ir.tdl.org/items/34429569-ba12-49d4-8086-24c6f37fdbb5)
 
